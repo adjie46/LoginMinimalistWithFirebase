@@ -21,4 +21,7 @@
     <string name="msg_email_empty">Email tidak boleh kosong</string>
     <string name="msg_pwd_empty">Katasandi tidak boleh kosong</string>
     <string name="msg_register_success">Pendaftaran Berhasil</string>
+    <string name="home_name_text">ADJIE KURNIAWAN</string>
+    <string name="home_btn_logout_text">KELUAR</string>
+    <string name="home_email_text">adjie46@gmail.com</string>
 </resources>

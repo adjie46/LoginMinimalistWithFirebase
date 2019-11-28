@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946737228344",
+    "firebase_url": "https://loginscreenminimalis.firebaseio.com",
+    "project_id": "loginscreenminimalis",
+    "storage_bucket": "loginscreenminimalis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946737228344:android:a25465840f828efc94d4cd",
+        "android_client_info": {
+          "package_name": "com.adjiekurniawan.loginscreenminimalis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946737228344-sv0f5dutq45n5jficf8r1lt19qoehj5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adjiekurniawan.loginscreenminimalis",
+            "certificate_hash": "91cb64f67e5317660d5a30290dadc756a0660daa"
+          }
+        },
+        {
+          "client_id": "946737228344-bfmhb1qsim2l5lrjrtb6eer3ghfmi7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKdsEOO480atdlSmNiXXY6YPlaK5kWMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946737228344-bfmhb1qsim2l5lrjrtb6eer3ghfmi7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
